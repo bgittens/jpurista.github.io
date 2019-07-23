@@ -71,4 +71,8 @@ body {
 .imgbtn1{
    display:block; /*remove inline-block spaces*/
    width:100%; /*make image streatch*/
+} 
+
+h5 {
+	color: white;
 }
